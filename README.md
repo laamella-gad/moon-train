@@ -1,4 +1,4 @@
-# moon-train
+# Moon Train
 The game Moon Train by Kurt Andersen converted from BASIC V2 to 6502 assembly
 
 [DOWNLOAD](https://github.com/laamella-gad/moon-train/releases/download/0.1/moontrain.prg)
